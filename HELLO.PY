@@ -1,2 +1,2 @@
 print ("hello World")
-print("PRINT is invalid ")
+print(" PRINT is invalid ")
